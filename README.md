@@ -3,7 +3,7 @@
 A new Flutter project.
 ## 📸 Screenshots
 
-<a href="screenshots/app.jpg"><img src="screenshots/app.jpg" width="250"/></a>
+<a href="screenshots/app.png"><img src="screenshots/app.png" width="250"/></a>
 
 ## Getting Started
 
